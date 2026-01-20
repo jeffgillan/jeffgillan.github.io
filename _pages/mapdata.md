@@ -5,14 +5,23 @@ author_profile: true
 
 ---
 
-# Drone Imagery Archive
+# Drone Imagery Platforms
 
+## Data to Science 
+A [open-source](https://github.com/gdslab/data-to-science) web platform for imagery visualization, storage, and sharing. It has a dedicated python library and Qgis plugin to integrate with anaylsis workflows. Sign up for a free account [here](https://d2s.cyverse.org/). 
+
+
+<img width="1249" height="727" alt="Screenshot 2026-01-20 at 3 06 29 PM" src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" />
+
+## GeoNadir
 View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
 
 
   <a href="https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12" target="_blank">
     <img src="../images/geonadir.png" alt="blah" width="600" height="500">
   </a>
+
+## STAC API
 
 ___
 
