@@ -25,20 +25,26 @@ View and download my [entire archive](https://data.geonadir.com/social-profile/5
 
 
 ## Open Forest Observatory
+  <a href="https://openforestobservatory.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" alt="blah" width="600" height="500">
+  </a>
+
 Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management.
+
+[SpatioTemporal Asset Catalog API](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
 
 [Automate Metashape](https://github.com/open-forest-observatory/automate-metashape)
 
 [Scale Automate Metashape on the Cloud with Argo & kubernetes](https://github.com/open-forest-observatory/ofo-argo)
 
-[SpatioTemporal Asset Catalog API](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
-
-  <a href="https://openforestobservatory.org/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" alt="blah" width="600" height="500">
+  <a href="https://github.com/open-forest-observatory/ofo-argo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3c607394-7297-49ec-ba45-53da31a9b823" alt="blah" width="600" height="500">
   </a>
 
 
 
+
+<br>
 ___
 
 <br>
@@ -141,29 +147,19 @@ ___
 
 <br>
 
-## Tyson's House
+# Drone Video Object Detection
 
-<a href="" target="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2">
-    <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
+<a href="https://github.com/jeffgillan/yolo_drone" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ec532251-2ac5-4003-933d-709549fe04a0" width="600" height="500">
   </a>
-
-[Interactive Point Cloud (COPC)](https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2) of Tyson's house
-
-
-<br>
 
 ___
 
-<br>
+# Containerized Cloud Native Geospatial Format Script
 
-# ML & GeoA & Random
-
-[Yolo object detection for drone video](https://github.com/jeffgillan/yolo_drone)
-
-[Containerized Cloud Native Geospatial Format Script](https://github.com/jeffgillan/cog_copc_generate)
-
-<img width="1038" height="303" alt="gpu_runner" src="https://github.com/user-attachments/assets/0153f411-0119-44fb-9e0a-57b73c45c2b4" />
-
+<a href="https://github.com/jeffgillan/cog_copc_generate" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ad4d1b1d-a0dc-4ce4-a3d0-6c912b12a819" alt="blah" width="600" height="500">
+  </a>
 ___
 
 # Harnessing the Data Revolution ML Challenge 2025
@@ -178,3 +174,17 @@ ___
 <a href="https://github.com/jeffgillan/HDR-SMood-Challenge-sample/tree/main/.github/workflows" target="_blank">
     <img src="https://github.com/user-attachments/assets/0153f411-0119-44fb-9e0a-57b73c45c2b4" alt="blah" width="600" height="500">
   </a>
+
+<br/>
+___
+
+<br/>
+
+
+# Tyson's House
+
+<a href="" target="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2">
+    <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
+  </a>
+
+[Interactive Point Cloud (COPC)](https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2) of Tyson's house
