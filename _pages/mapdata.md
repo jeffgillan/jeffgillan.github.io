@@ -43,24 +43,27 @@ Open drone imagery products, automated processing workflows, and machine learnin
 
 
 
-
 <br>
+
 ___
 
 <br>
 <br>
 
 # Forest Die-off Mapping, Peloncillo Mountains, New Mexico
-
+ <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
+  </a>
+  
 [Canopy Height Model](https://ps2.d2s.org/sl/osGvX95BfBo)
 
 [Orthomosaic](https://ps2.d2s.org/sl/qpwNUYTuDYI)
 
 [Point Cloud](https://ps2.d2s.org/sharepotree?file_id=75759d11-fa6b-428c-a9a1-ededd89dbe91)
- <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
-  </a>
 
+
+<br>
+<br>
 ___
 
 # Santa Rita Rangeland Monitoring
@@ -92,7 +95,7 @@ ___
 
 <br>
 
-# Paradise Valley Country Club 
+# Irrigation Installation, Paradise Valley Country Club 
 <a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
     <img src="../images/hole_17.png" alt="blah" width="600" height="500">
   </a>
@@ -153,6 +156,9 @@ ___
     <img src="https://github.com/user-attachments/assets/ec532251-2ac5-4003-933d-709549fe04a0" width="600" height="500">
   </a>
 
+<br>
+<br>
+
 ___
 
 # Containerized Cloud Native Geospatial Format Script
@@ -160,7 +166,12 @@ ___
 <a href="https://github.com/jeffgillan/cog_copc_generate" target="_blank">
     <img src="https://github.com/user-attachments/assets/ad4d1b1d-a0dc-4ce4-a3d0-6c912b12a819" alt="blah" width="600" height="500">
   </a>
+
+<br>
+<br>
+
 ___
+
 
 # Harnessing the Data Revolution ML Challenge 2025
 
@@ -168,6 +179,8 @@ ___
     <img src="https://github.com/user-attachments/assets/18ea299f-8960-41f8-a814-b3003e08345a" width="600" height="500">
   </a>
 
+<br>
+<br>
 ___
 
 # Runner Connecting Cyverse with Jetstream2 GPUs
