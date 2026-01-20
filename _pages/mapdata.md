@@ -44,6 +44,17 @@ ___
 <br>
 <br>
 
+# Forest Die-off Mapping, Peloncillo Mountains, New Mexico
+
+[Canopy Height Model](https://ps2.d2s.org/sl/osGvX95BfBo)
+
+[Orthomosaic](https://ps2.d2s.org/sl/qpwNUYTuDYI)
+
+[Point Cloud](https://ps2.d2s.org/sharepotree?file_id=75759d11-fa6b-428c-a9a1-ededd89dbe91)
+ <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
+  </a>
+  
 # Santa Rita Rangeland Monitoring
 <a href="" target="">
     <img src="../images/santa_rita_rangeland.png" alt="blah" width="600" height="500">
