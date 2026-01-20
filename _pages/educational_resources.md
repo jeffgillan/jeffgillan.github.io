@@ -14,6 +14,17 @@ author_profile: true
 <br/>
 
 ## Workshop Series
+
+### GeoAI
+
+https://github.com/ua-datalab/geospatial_2025
+https://github.com/ua-datalab/geospatial_2025/blob/main/images/geospatial_robot.png?raw=true
+
+<a href="https://github.com/ua-datalab/geospatial_2025" target="_blank">
+    <img src="https://github.com/ua-datalab/geospatial_2025/blob/main/images/geospatial_robot.png?raw=true" alt="blah" width="400" height="300">
+  </a>
+
+
 ### NextGen Geospatial Data Science Workshop
 
 <a href="https://github.com/ua-datalab/Geospatial_Workshops/wiki" target="_blank">
