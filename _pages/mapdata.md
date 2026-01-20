@@ -10,9 +10,6 @@ author_profile: true
 ## Data to Science 
 A [open-source](https://github.com/gdslab/data-to-science) web platform for imagery visualization, storage, and sharing. It has a dedicated python library and Qgis plugin to integrate with anaylsis workflows. Sign up for a free account [here](https://d2s.cyverse.org/). 
 
-
-<img width="1249" height="727" alt="Screenshot 2026-01-20 at 3 06 29 PM" src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" />
-
   <a href="https://d2s.cyverse.org/" target="_blank">
     <img src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" alt="blah" width="1000" height="400">
   </a>
@@ -28,11 +25,19 @@ View and download my [entire archive](https://data.geonadir.com/social-profile/5
 
 
 ## Open Forest Observatory
-Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management
+Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management.
 
-<img width="831" height="401" alt="Screenshot 2026-01-20 at 3 15 09 PM" src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" />
+[Automate Metashape](https://github.com/open-forest-observatory/automate-metashape)
 
-## STAC API
+[Scale Automate Metashape on the Cloud with Argo & kubernetes](https://github.com/open-forest-observatory/ofo-argo)
+
+[SpatioTemporal Asset Catalog API](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
+
+  <a href="https://openforestobservatory.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" alt="blah" width="600" height="500">
+  </a>
+
+
 
 ___
 
