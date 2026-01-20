@@ -54,7 +54,9 @@ ___
  <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
     <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
   </a>
-  
+
+___
+
 # Santa Rita Rangeland Monitoring
 <a href="" target="">
     <img src="../images/santa_rita_rangeland.png" alt="blah" width="600" height="500">
@@ -149,5 +151,30 @@ ___
 
 
 <br>
+
+___
+
 <br>
 
+# ML & GeoA & Random
+
+[Yolo object detection for drone video](https://github.com/jeffgillan/yolo_drone)
+
+[Containerized Cloud Native Geospatial Format Script](https://github.com/jeffgillan/cog_copc_generate)
+
+<img width="1038" height="303" alt="gpu_runner" src="https://github.com/user-attachments/assets/0153f411-0119-44fb-9e0a-57b73c45c2b4" />
+
+___
+
+# Harnessing the Data Revolution ML Challenge 2025
+
+<a href="https://github.com/jeffgillan/HDR-SMood-Challenge-sample" target="_blank">
+    <img src="https://github.com/user-attachments/assets/18ea299f-8960-41f8-a814-b3003e08345a" width="600" height="500">
+  </a>
+
+___
+
+# Runner Connecting Cyverse with Jetstream2 GPUs
+<a href="https://github.com/jeffgillan/HDR-SMood-Challenge-sample/tree/main/.github/workflows" target="_blank">
+    <img src="https://github.com/user-attachments/assets/0153f411-0119-44fb-9e0a-57b73c45c2b4" alt="blah" width="600" height="500">
+  </a>
