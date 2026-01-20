@@ -13,6 +13,11 @@ A [open-source](https://github.com/gdslab/data-to-science) web platform for imag
 
 <img width="1249" height="727" alt="Screenshot 2026-01-20 at 3 06 29 PM" src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" />
 
+  <a href="https://d2s.cyverse.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" alt="blah" width="1000" height="400">
+  </a>
+
+
 ## GeoNadir
 View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
 
@@ -20,6 +25,12 @@ View and download my [entire archive](https://data.geonadir.com/social-profile/5
   <a href="https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12" target="_blank">
     <img src="../images/geonadir.png" alt="blah" width="600" height="500">
   </a>
+
+
+## Open Forest Observatory
+Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management
+
+<img width="831" height="401" alt="Screenshot 2026-01-20 at 3 15 09 PM" src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" />
 
 ## STAC API
 
