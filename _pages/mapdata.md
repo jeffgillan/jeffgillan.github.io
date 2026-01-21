@@ -69,6 +69,17 @@ ___
 <br>
 <br>
 
+# Data Science Institute Attendance Dashboard
+
+ <a href="https://github.com/cyverse/DSIMetrics" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3b19787e-5cc0-4287-bbc1-0edde4d7cdd6" alt="blah" width="1000" height="400">
+  </a>
+
+<br>
+<br>
+<br>
+<br>
+
 # Forest Die-off Mapping, Peloncillo Mountains, New Mexico
  <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
     <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
@@ -211,6 +222,24 @@ ___
 ___
 
 <br/>
+
+
+# JournalMap: Search for Scientific Lit on a Map
+
+<a href="https://journalmap.org" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f3fb8e28-a078-48c0-ac1b-973d2651a51d" alt="blah" width="600" height="500">
+  </a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# The Landscape Toolbox
+
+<a href="https://www.landscapetoolbox.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bf76b9fd-dade-4815-858c-696dba773df4" alt="blah" width="600" height="500">
+  </a>
 
 
 # Tyson's House
