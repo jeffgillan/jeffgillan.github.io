@@ -57,9 +57,8 @@ author_profile: true
 <br/>
 
 ## Videos
-
-Drone Imagery Sharing - Cloud Native Conference 2025
-<iframe width="1108" height="623" src="https://www.youtube.com/watch?v=22VJxyTQX_o" title="Drone Imagery Sharing CNG 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Sharing Drone Imagery - Cloud Native Geospatial Conference 2025
+<iframe width="844" height="475" src="https://www.youtube.com/embed/22VJxyTQX_o" title="[CNG 2025] Make your Drone Imagery Open and Cloud-Native – Jeffrey Gillan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 <br/>
