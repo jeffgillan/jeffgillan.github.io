@@ -41,7 +41,11 @@ Open drone imagery products, automated processing workflows, and machine learnin
     <img src="https://github.com/user-attachments/assets/3c607394-7297-49ec-ba45-53da31a9b823" alt="blah" width="600" height="500">
   </a>
 
+[One Click Geospatial VMs on the Cloud](https://github.com/open-forest-observatory/cacao-terraform-ofo)
 
+  <a href="https://github.com/open-forest-observatory/cacao-terraform-ofo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/17a68dae-870e-4919-a684-5de115958333" alt="blah" width="600" height="500">
+  </a>
 
 <br>
 
