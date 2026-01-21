@@ -15,10 +15,7 @@ author_profile: true
 
 ## Workshop Series
 
-### GeoAI
-
-https://github.com/ua-datalab/geospatial_2025
-https://github.com/ua-datalab/geospatial_2025/blob/main/images/geospatial_robot.png?raw=true
+### GeoAI 2025
 
 <a href="https://github.com/ua-datalab/geospatial_2025" target="_blank">
     <img src="https://github.com/ua-datalab/geospatial_2025/blob/main/images/geospatial_robot.png?raw=true" alt="blah" width="400" height="300">
@@ -61,7 +58,13 @@ https://github.com/ua-datalab/geospatial_2025/blob/main/images/geospatial_robot.
 
 ## Videos
 
-Sharing Your Drone Imagery
+Drone Imagery Sharing - Cloud Native Conference 2025
+<iframe width="1108" height="623" src="https://www.youtube.com/watch?v=22VJxyTQX_o" title="Drone Imagery Sharing CNG 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+Sharing Your Drone Imagery 2023
 <iframe width="1108" height="623" src="https://www.youtube.com/embed/Kiu2Qbw7OE0" title="20230320 JGillan: Make Your Drone Imagery Open &amp; Cloud-Native" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br/>
@@ -80,6 +83,7 @@ Cyverse Geospatial
 <br/>
 
 ## Slide Decks
+
 
 <a href="https://docs.google.com/presentation/d/1x-hOSfDIha4Vsyw_NJWIR4lAEG3CjXJ49BJhF62RaJs/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/drone_bottlenecks.png?raw=true" alt="blah" width="400" height="300">
