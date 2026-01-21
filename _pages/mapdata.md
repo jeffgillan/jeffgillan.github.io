@@ -16,6 +16,10 @@ A [open-source](https://github.com/gdslab/data-to-science) web platform for imag
     <img src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" alt="blah" width="1000" height="400">
   </a>
 
+<br>
+<br>
+<br>
+<br>
 
 # GeoNadir
 View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
@@ -25,6 +29,10 @@ View and download my [entire archive](https://data.geonadir.com/social-profile/5
     <img src="../images/geonadir.png" alt="blah" width="600" height="500">
   </a>
 
+<br>
+<br>
+<br>
+<br>
 
 # Open Forest Observatory
   <a href="https://openforestobservatory.org/" target="_blank">
