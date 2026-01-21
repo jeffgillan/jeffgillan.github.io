@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
- <img width="960" height="540" alt="AVCA_rangeland_resilience" src="https://github.com/user-attachments/assets/04d074e6-9201-4b6a-a6b8-afc9153f1abf" />
 
 
 
-
+<img width="1000" height="600" alt="gillan_geospatial2026" src="https://github.com/user-attachments/assets/8b2e8bdc-3f41-410d-a114-b13fa56b7efa" />
 
