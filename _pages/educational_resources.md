@@ -15,7 +15,7 @@ author_profile: true
 
 ## Workshop Series
 
-### Generative AI 2026
+### GenerativeAI 2026
 
 <a href="https://tyson-swetnam.github.io/intro-gpt/" target="_blank">
     <img src="https://github.com/user-attachments/assets/7bde5a68-dfa7-4401-8051-84c140d8a230" alt="blah" width="400" height="300">
