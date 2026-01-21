@@ -5,9 +5,11 @@ author_profile: true
 
 ---
 
-# Drone Imagery Platforms
+# Maps & Data Porfolio
 
-## Data to Science 
+<br>
+
+# Data to Science 
 A [open-source](https://github.com/gdslab/data-to-science) web platform for imagery visualization, storage, and sharing. It has a dedicated python library and Qgis plugin to integrate with anaylsis workflows. Sign up for a free account [here](https://d2s.cyverse.org/). 
 
   <a href="https://d2s.cyverse.org/" target="_blank">
@@ -15,7 +17,7 @@ A [open-source](https://github.com/gdslab/data-to-science) web platform for imag
   </a>
 
 
-## GeoNadir
+# GeoNadir
 View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
 
 
@@ -24,7 +26,7 @@ View and download my [entire archive](https://data.geonadir.com/social-profile/5
   </a>
 
 
-## Open Forest Observatory
+# Open Forest Observatory
   <a href="https://openforestobservatory.org/" target="_blank">
     <img src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" alt="blah" width="600" height="500">
   </a>
