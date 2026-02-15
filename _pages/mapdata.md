@@ -24,19 +24,6 @@ author_profile: true
 <br>
 ___
 
-# Santa Rita Rangeland Monitoring
-<a href="" target="">
-    <img src="../images/santa_rita_rangeland.png" alt="blah" width="600" height="500">
-  </a>
-* Raw drone imagery and imagery products (DEMs, point clouds, orthomosaics) are stored in Cyverse [Data Store](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021)
-    
-* Drone imagery products can be visualized in [Google Earth Engine](https://bit.ly/srer-drone-2019)
-
-
-<br>
-
-___
-
 <br>
 
 # Jemez Residential Fire Risk 2020
@@ -105,12 +92,22 @@ ___
 
 <br>
 
+# Santa Rita Rangeland Monitoring 2019-2020
+<a href="" target="">
+    <img src="../images/santa_rita_rangeland.png" alt="blah" width="600" height="500">
+  </a>
+* Raw drone imagery and imagery products (DEMs, point clouds, orthomosaics) are stored in Cyverse [Data Store](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_Ecosphere_2021)
+    
+* Drone imagery products can be visualized in [Google Earth Engine](https://bit.ly/srer-drone-2019)
+
+
+<br>
 
 ___
 
 
 
-# Tyson's House
+# Tyson's House 2020
 
 <a href="" target="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2">
     <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
