@@ -21,7 +21,7 @@ author_profile: true
 
 
 <br>
-<br>
+
 ___
 
 <br>
@@ -105,7 +105,7 @@ ___
 
 ___
 
-
+<br>
 
 # Tyson's House 2020
 
