@@ -13,5 +13,9 @@ main:
   - title: "Maps & Data"
     url: /mapdata/
 
+  - title: "Machine Learning"
+    url: /ml/
+
   - title: "Geospatial Art"
     url: /geospatial_art/
+
