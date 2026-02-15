@@ -5,82 +5,10 @@ author_profile: true
 
 ---
 
-# Maps & Data Porfolio
-
-<br>
-
-# Data to Science 
-A [open-source](https://github.com/gdslab/data-to-science) web platform for imagery visualization, storage, and sharing. It has a dedicated python library and Qgis plugin to integrate with anaylsis workflows. Sign up for a free account [here](https://d2s.cyverse.org/). 
-
-  <a href="https://d2s.cyverse.org/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/15803699-6dd5-4877-9b93-89bc8c919654" alt="blah" width="1000" height="400">
-  </a>
-
-<br>
-<br>
-<br>
-<br>
-
-# GeoNadir
-View and download my [entire archive](https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12) of collected raw drone imagery hosted in [Geonadir](https://geonadir.com/).
 
 
-  <a href="https://data.geonadir.com/social-profile/55?extent=-14055722.19%2C3597708.43%2C-11227317.52%2C5224300.12" target="_blank">
-    <img src="../images/geonadir.png" alt="blah" width="600" height="500">
-  </a>
 
-<br>
-<br>
-<br>
-<br>
-
-# Open Forest Observatory
-  <a href="https://openforestobservatory.org/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/7fc79ded-34c1-4ab7-a78b-f66319ad453c" alt="blah" width="600" height="500">
-  </a>
-
-Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management.
-
-[SpatioTemporal Asset Catalog API](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
-
-[Automate Metashape](https://github.com/open-forest-observatory/automate-metashape)
-
-[Scale Automate Metashape on the Cloud with Argo & kubernetes](https://github.com/open-forest-observatory/ofo-argo)
-
-  <a href="https://github.com/open-forest-observatory/ofo-argo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3c607394-7297-49ec-ba45-53da31a9b823" alt="blah" width="600" height="500">
-  </a>
-
-<br>
-<br>
-<br>
-<br>
-
-# Geospatial VM Templates on the Cloud
-
-  <a href="https://github.com/open-forest-observatory/cacao-terraform-ofo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/17a68dae-870e-4919-a684-5de115958333" alt="blah" width="400" height="300">
-  </a>
-
-<br>
-
-___
-
-<br>
-<br>
-
-# Data Science Institute Attendance Dashboard
-
- <a href="https://github.com/cyverse/DSIMetrics" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3b19787e-5cc0-4287-bbc1-0edde4d7cdd6" alt="blah" width="1000" height="400">
-  </a>
-
-<br>
-<br>
-<br>
-<br>
-
-# Forest Die-off Mapping, Peloncillo Mountains, New Mexico
+# Forest Die-off Mapping, Peloncillo Mountains, New Mexico 2025
  <a href="https://ps2.d2s.org/sl/osGvX95BfBo" target="_blank">
     <img src="https://github.com/user-attachments/assets/246cebd3-fad2-48fe-a496-9eeda82f5266" alt="blah" width="1000" height="400">
   </a>
@@ -125,13 +53,30 @@ ___
 
 <br>
 
-# Irrigation Installation, Paradise Valley Country Club 
+# Irrigation Installation, Paradise Valley Country Club 2023
 <a href="https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834" target="">
     <img src="../images/hole_17.png" alt="blah" width="600" height="500">
   </a>
 * Paradise Valley Hole #17 [Point Cloud](https://ps2.d2s.org/sharepotree?file_id=188f6623-c18b-4829-adbb-571ae038e834) and [Orthomosaic](https://ps2.d2s.org/sharemap?file_id=58b23ea8-9efd-4a87-86ad-1f40f8c39f02&symbology=eyJyZWQiOnsiaWR4IjoxLCJtYXgiOjI1NSwibWluIjoxNiwidXNlck1heCI6MjU1LCJ1c2VyTWluIjoxNn0sImJsdWUiOnsiaWR4IjozLCJtYXgiOjI1NSwibWluIjoxNiwidXNlck1heCI6MjU1LCJ1c2VyTWluIjoxNn0sIm1vZGUiOiJtaW5NYXgiLCJncmVlbiI6eyJpZHgiOjIsIm1heCI6MjU1LCJtaW4iOjI2LCJ1c2VyTWF4IjoyNTUsInVzZXJNaW4iOjI2fSwibWVhblN0ZERldiI6Miwib3BhY2l0eSI6MTAwfQ==)
 
 
+<br>
+
+## Santa Cruz River Vegetation Mapping 2022-2023
+<a href="https://ps2.d2s.org/sharemap?file_id=c5779119-63a4-4b84-9435-6c37414105e6&symbology=eyJyZWQiOnsiaWR4IjoxLCJtYXgiOjI1NSwibWluIjowLCJ1c2VyTWF4IjoyNTUsInVzZXJNaW4iOjB9LCJibHVlIjp7ImlkeCI6MywibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibW9kZSI6Im1pbk1heCIsImdyZWVuIjp7ImlkeCI6MiwibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibWVhblN0ZERldiI6Miwib3BhY2l0eSI6MTAwfQ==" target="">
+    <img src="../images/scr_screenshot.png" alt="blah" width="600" height="500">
+  </a> 
+  
+* [Interactive Drone Point Cloud (April 2022)](https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405)
+
+* [Interactive 2D Classification Map](https://ps2.d2s.org/sharemap?file_id=f1635a4a-7ed9-4398-a99b-c2abc90766c3&symbology=eyJtYXgiOjE0LCJtaW4iOjgsIm1vZGUiOiJtaW5NYXgiLCJ1c2VyTWF4IjoxNCwidXNlck1pbiI6OCwiY29sb3JSYW1wIjoibWFnbWEiLCJtZWFuU3RkRGV2IjoyLCJvcGFjaXR5IjoxMDB9)
+
+* Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river) in Cyverse Data Store
+
+* [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/santa_cruz_river/SCR_drone_report_Gillan_2022.pdf)
+ to Pima County Regional Flood Control District
+
+<br>
 <br>
 
 ___
@@ -160,58 +105,9 @@ ___
 
 <br>
 
-## Santa Cruz River Vegetation Mapping 2022-2023
-<a href="https://ps2.d2s.org/sharemap?file_id=c5779119-63a4-4b84-9435-6c37414105e6&symbology=eyJyZWQiOnsiaWR4IjoxLCJtYXgiOjI1NSwibWluIjowLCJ1c2VyTWF4IjoyNTUsInVzZXJNaW4iOjB9LCJibHVlIjp7ImlkeCI6MywibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibW9kZSI6Im1pbk1heCIsImdyZWVuIjp7ImlkeCI6MiwibWF4IjoyNTUsIm1pbiI6MCwidXNlck1heCI6MjU1LCJ1c2VyTWluIjowfSwibWVhblN0ZERldiI6Miwib3BhY2l0eSI6MTAwfQ==" target="">
-    <img src="../images/scr_screenshot.png" alt="blah" width="600" height="500">
-  </a> 
-  
-* [Interactive Drone Point Cloud (April 2022)](https://ps2.d2s.org/sharepotree?file_id=d6056396-4bde-48ae-a745-f5f131f57405)
-
-* [Interactive 2D Classification Map](https://ps2.d2s.org/sharemap?file_id=f1635a4a-7ed9-4398-a99b-c2abc90766c3&symbology=eyJtYXgiOjE0LCJtaW4iOjgsIm1vZGUiOiJtaW5NYXgiLCJ1c2VyTWF4IjoxNCwidXNlck1pbiI6OCwiY29sb3JSYW1wIjoibWFnbWEiLCJtZWFuU3RkRGV2IjoyLCJvcGFjaXR5IjoxMDB9)
-
-* Remotely sensed data products from airplane and drone are [here](https://datacommons.cyverse.org/browse/iplant/home/shared/santa_cruz_river) in Cyverse Data Store
-
-* [Final Report](https://data.cyverse.org/dav-anon/iplant/projects/santa_cruz_river/SCR_drone_report_Gillan_2022.pdf)
- to Pima County Regional Flood Control District
-
-<br>
-<br>
 
 ___
 
-# Containerized Cloud Native Geospatial Format Script
-
-<a href="https://github.com/jeffgillan/cog_copc_generate" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ad4d1b1d-a0dc-4ce4-a3d0-6c912b12a819" alt="blah" width="600" height="500">
-  </a>
-
-<br>
-<br>
-
-
-
-
-___
-
-<br/>
-
-
-# JournalMap: Search for Scientific Lit on a Map
-
-<a href="https://journalmap.org" target="_blank">
-    <img src="https://github.com/user-attachments/assets/f3fb8e28-a078-48c0-ac1b-973d2651a51d" alt="blah" width="600" height="500">
-  </a>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-# The Landscape Toolbox
-
-<a href="https://www.landscapetoolbox.org/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bf76b9fd-dade-4815-858c-696dba773df4" alt="blah" width="600" height="500">
-  </a>
 
 
 # Tyson's House
