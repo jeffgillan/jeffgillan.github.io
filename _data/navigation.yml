@@ -13,7 +13,7 @@ main:
     url: /mapdata/
 
   - title: "Data Engineering"
-    url:/data_engineering/
+    url: /data_engineering/
 
   - title: "Machine Learning"
     url: /ml/
