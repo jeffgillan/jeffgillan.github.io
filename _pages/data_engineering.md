@@ -5,6 +5,19 @@ author_profile: true
 
 ---
 
+# Photogrammetry Processing Scaled on the Cloud
+
+  <a href="https://github.com/open-forest-observatory/ofo-argo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3c607394-7297-49ec-ba45-53da31a9b823" alt="blah" width="600" height="500">
+  </a>
+
+<br>
+<br>
+
+___
+
+<br>
+
 
 # Open Forest Observatory
   <a href="https://openforestobservatory.org/" target="_blank">
@@ -13,20 +26,46 @@ author_profile: true
 
 Open drone imagery products, automated processing workflows, and machine learning tools for digital forest management.
 
-[SpatioTemporal Asset Catalog API](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
+<br>
+<br>
 
-[Automate Metashape](https://github.com/open-forest-observatory/automate-metashape)
+___
 
-[Scale Automate Metashape on the Cloud with Argo & kubernetes](https://github.com/open-forest-observatory/ofo-argo)
+<br>
 
-  <a href="https://github.com/open-forest-observatory/ofo-argo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3c607394-7297-49ec-ba45-53da31a9b823" alt="blah" width="600" height="500">
+# SpatioTemporal Asset Catalog API
+
+  <a href="https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f8779542-763f-4522-a350-5f36b34f07ad" alt="blah" width="600" height="500">
   </a>
 
+[SpatioTemporal Asset Catalog Browser](https://radiantearth.github.io/stac-browser/#/external/stac.cyverse.org/)
+
+[STAC API Repo](https://github.com/open-forest-observatory/stac)
+
 <br>
 <br>
+
+___
+
+<br>
+
+# Automate Metashape 
+
+<a href="https://github.com/open-forest-observatory/automate-metashape" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7a992e74-a314-459a-89e8-17e246414796" alt="blah" width="600" height="500">
+  </a>
+
+
+
 <br>
 <br>
+
+___
+
+<br>
+
+
 
 # Geospatial VM Templates on the Cloud
 
@@ -49,7 +88,9 @@ ___
 
 <br>
 <br>
-<br>
+
+___
+
 <br>
 
 
@@ -62,6 +103,10 @@ ___
 <br>
 <br>
 
+___
+
+<br>
+
 # Data to Science 
 A [open-source](https://github.com/gdslab/data-to-science) web platform for imagery visualization, storage, and sharing. It has a dedicated python library and Qgis plugin to integrate with anaylsis workflows. Sign up for a free account [here](https://d2s.cyverse.org/). 
 
@@ -71,7 +116,9 @@ A [open-source](https://github.com/gdslab/data-to-science) web platform for imag
 
 <br>
 <br>
-<br>
+
+___
+
 <br>
 
 # GeoNadir
@@ -97,10 +144,12 @@ ___
     <img src="https://github.com/user-attachments/assets/f3fb8e28-a078-48c0-ac1b-973d2651a51d" alt="blah" width="600" height="500">
   </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+
+___
+
+<br>
 
 # The Landscape Toolbox
 
