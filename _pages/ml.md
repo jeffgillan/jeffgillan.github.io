@@ -11,7 +11,25 @@ author_profile: true
     <img src="https://github.com/user-attachments/assets/c07440d3-957c-4be0-9139-3635022fc84f" width="600" height="500">
   </a>
 
+<br>
+<br>
 
+___
+
+<br>
+
+# Deep Learning with Detecto
+
+<a href="https://colab.research.google.com/github/ua-datalab/Geospatial_Workshops/blob/main/notebooks/detecto_geospatial.ipynb" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2bd01459-b07b-4fef-b201-d007d2725af8" width="600" height="500">
+  </a>
+
+<br>
+<br>
+
+___
+
+<br>
 
 
 # Drone Video Object Detection
@@ -23,6 +41,10 @@ author_profile: true
 <br>
 <br>
 
+___
+
+<br>
+
 # Harnessing the Data Revolution ML Challenge 2025
 
 <a href="https://github.com/jeffgillan/HDR-SMood-Challenge-sample" target="_blank">
@@ -31,7 +53,10 @@ author_profile: true
 
 <br>
 <br>
+
 ___
+
+<br>
 
 # Runner Connecting Cyverse with Jetstream2 GPUs
 <a href="https://github.com/jeffgillan/HDR-SMood-Challenge-sample/tree/main/.github/workflows" target="_blank">
@@ -39,4 +64,5 @@ ___
   </a>
 
 <br/>
+
 ___
