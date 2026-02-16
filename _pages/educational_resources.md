@@ -69,8 +69,20 @@ Sharing Drone Imagery - Cloud Native Geospatial Conference 2025
 <br/>
 <br/>
 
-Sharing Your Drone Imagery 2023
-<iframe width="1108" height="623" src="https://www.youtube.com/embed/Kiu2Qbw7OE0" title="20230320 JGillan: Make Your Drone Imagery Open &amp; Cloud-Native" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The GeoAI Landscape - Sept. 2025
+<iframe width="894" height="503" src="https://www.youtube.com/embed/MDK98eEPjpo" title="Geospatial AI Part 1: The GeoAI Landscape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+Geospatial AI Agents - Sept. 2025
+<iframe width="894" height="503" src="https://www.youtube.com/embed/83_DOVV5luM" title="Geospatial AI Part 2: Coding Agents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+End-to-End Deep Learning with Aerial Imagery - Sept. 2025
+<iframe width="894" height="503" src="https://www.youtube.com/embed/mRQuSAbTS1I" title="Geospatial AI Part 3: End-to-end deep learning for aerial imagery analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 <br/>
