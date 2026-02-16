@@ -101,6 +101,14 @@ Cyverse Geospatial
 
 ## Slide Decks
 
+<a href="https://arizona.box.com/s/3rauly6d8bayro5ec8z71esl8rk99uc4" target="_blank">
+    <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/AI_Agents.png?raw=true" alt="blah" width="400" height="300">
+  </a>
+
+<br/>
+<br/>
+
+
 <a href="https://docs.google.com/presentation/d/14Yhtt5N2mZVx_RzDXFwmsEya7UvcabITFn2JooQbjy4/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/geoAI.png?raw=true" alt="blah" width="400" height="300">
   </a>
