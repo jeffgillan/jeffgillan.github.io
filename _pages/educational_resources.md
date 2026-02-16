@@ -101,6 +101,19 @@ Cyverse Geospatial
 
 ## Slide Decks
 
+<a href="https://docs.google.com/presentation/d/14Yhtt5N2mZVx_RzDXFwmsEya7UvcabITFn2JooQbjy4/edit?usp=sharing" target="_blank">
+    <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/geoAI.png?raw=true" alt="blah" width="400" height="300">
+  </a>
+
+<br/>
+<br/>
+
+<a href="https://docs.google.com/presentation/d/15EGM8pMyY3YqFEiIjcGv1_eCTgnOhvCYFLy3WSU3CKE/edit?usp=sharing" target="_blank">
+    <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/cloud_native_conference.png?raw=true" alt="blah" width="400" height="300">
+  </a>
+
+<br/>
+<br/>
 
 <a href="https://docs.google.com/presentation/d/1x-hOSfDIha4Vsyw_NJWIR4lAEG3CjXJ49BJhF62RaJs/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/drone_bottlenecks.png?raw=true" alt="blah" width="400" height="300">
