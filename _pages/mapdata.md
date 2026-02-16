@@ -123,8 +123,8 @@ ___
 
 # Tyson's House 
 
-<a href="" target="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2">
+<a href="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2" target="_blank">
     <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
   </a>
 
-[Interactive Point Cloud (COPC)](https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2) of Tyson's house
+
