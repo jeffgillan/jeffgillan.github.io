@@ -107,7 +107,21 @@ ___
 
 <br>
 
-# Tyson's House 2020
+
+# Lizard Rock - Santa Catalina Mountains, AZ
+
+
+<a href="https://ps2.d2s.org/sharepotree?file_id=57d55873-6df2-42fe-a8ad-fd01c67e1fcd" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b535b6a6-333f-4c91-831e-2b40ff10d2db" alt="blah" width="1000" height="400">
+  </a>
+
+<br>
+
+___
+
+<br>
+
+# Tyson's House 
 
 <a href="" target="https://viewer.copc.io?state=381c861efb8fc737530a0ab8b2273785b47e0827fef4ac03b0ae5a21ee0ad5f2">
     <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
