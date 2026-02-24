@@ -127,16 +127,27 @@ ___
     <img src="../images/Swetnam1.jpg" alt="blah" width="600" height="500">
   </a>
 
+<br>
+
+___
+
+<br>
 
 # Yellowstone National Park
 
-<a href="" target="_blank">
+<a href="" target="">
     <img src="https://github.com/user-attachments/assets/3f076602-dc17-4fde-b06a-b315ec165157" alt="blah" width="600" height="500">
   </a>
 
+<br>
+
+___
+
+<br>
+
 # Petersburg National Battlefield
 
-<a href="" target="_blank">
+<a href="" target="">
     <img src="https://github.com/user-attachments/assets/c6bb299e-9d3f-407c-9132-79afdb23851f" alt="blah" width="600" height="500">
   </a>
 
