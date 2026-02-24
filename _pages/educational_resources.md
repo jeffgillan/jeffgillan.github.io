@@ -8,6 +8,7 @@ author_profile: true
 - [Workshop Series](#workshop-series)
 - [Videos](#videos)
 - [Slide Decks](#slide-decks)
+- [Sage-grouse Habitat Guide](#sage-grouse-habitat-guide)
 
 <br/>
 <br/>
@@ -140,5 +141,17 @@ Cyverse Geospatial
 <a href="https://docs.google.com/presentation/d/13lUFdeaNfYAc9L6LvrpHOQuvT3L6SmcRK2gVHg6eVKE/edit?usp=sharing" target="_blank">
     <img src="https://github.com/jeffgillan/jeffgillan.github.io/blob/master/images/data_mgmt.png?raw=true" alt="blah" width="400" height="300">
   </a>
+
+<br/>
+<br/>
+<br/>
+
+
+## Sage-grouse Habitat Guide
+
+<a href="https://objects.lib.uidaho.edu/rangecoll/rangecoll56.pdf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/16427cc3-6629-4683-8438-5c8b02b19b1a" alt="blah" width="400" height="300">
+  </a>
+
 
 
